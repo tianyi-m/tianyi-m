@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tianyi-m
-- 👀 I’m interested in computer music and visualization, algrorithm visualization, math and physics visualization, ML/DL and data science, web games, compiler, computer system, server, and software dev.
-- 🌱 I’m currently learning about the above interests. Specifically SFML, time table, and computer musics and visualizations.
-- 💞️ I’m looking to collaborate on building a digital emotional support dog (description: https://tianyi-m.com/abrandnewprojectideaoutline) and a 3D music visualizer
+- 👀 I’m working on solving algorithmtic problems on Codeforces and my own personal website. I might work on softwares like CARE and Plato afterwards.
+- 🌱 I’m currently learning about algorithms and web development, specifically using ReactJS.
+- 💞️ I’m looking to collaborate on building a digital emotional support dog (description: https://tianyi-m.com/abrandnewprojectideaoutline) and Plato, a new form of social media for autistic people.
 - 📫 How to reach me: tma8 /at u /dot rochester /dot edu
 
 <!---
