@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tianyi-m
-- 👀 I’m working on solving algorithmtic problems on Codeforces and my own personal website. I might work on softwares like CARE and Plato afterwards.
-- 🌱 I’m currently learning about algorithms and web development, specifically using ReactJS.
-- 💞️ I’m looking to collaborate on building CARE, a digital emotional support dog, and Plato, a new form of social media for autistic persons.
+- 👀 I’m currently interested in Data Science and Software Engineering.
+- 🌱 I’m currently learning about Data Science and Software Engineering.
+- 💞️ I’m looking to collaborate on building InLoo, an app that connect local students with international students.
 - 📫 How to reach me: tma8 /at u /dot rochester /dot edu
 
 <!---
